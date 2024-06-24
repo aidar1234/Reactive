@@ -1,1 +1,1 @@
-**См. класс Main в untitled**
+**Смотри класс Main в untitled**
